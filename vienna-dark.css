@@ -16,7 +16,7 @@
 .hljs-attribute,
 .hljs-regexp,
 .hljs-link,
-.hljs-tag,
+.hljs-attr,
 .hljs-selector-id,
 .hljs-selector-class {
   color: #D3AEED;
@@ -36,6 +36,10 @@
 /* Vienna Dark - Green */
 .hljs-string,
 .hljs-symbol,
+.hljs-tag,
+.hljs-name,
+.hljs-keyword,
+.hljs-selector-tag,
 .hljs-bullet {
   color: #D9E8F5;
 }
@@ -44,13 +48,6 @@
 .hljs-title,
 .hljs-section {
   color: #576ddb;
-}
-
-/* Vienna Dark - Light Blue */
-.hljs-keyword,
-.hljs-name,
-.hljs-selector-tag {
-  color: #D9E8F5;
 }
 
 .hljs-deletion,
