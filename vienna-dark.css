@@ -17,7 +17,6 @@
 .hljs-regexp,
 .hljs-link,
 .hljs-tag,
-.hljs-name,
 .hljs-selector-id,
 .hljs-selector-class {
   color: #D3AEED;
@@ -49,6 +48,7 @@
 
 /* Vienna Dark - Light Blue */
 .hljs-keyword,
+.hljs-name,
 .hljs-selector-tag {
   color: #D9E8F5;
 }
